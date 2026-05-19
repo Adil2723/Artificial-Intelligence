@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Course-Artificial%20Intelligence-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semester-5th-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semester-4th-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Search-32CD32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
